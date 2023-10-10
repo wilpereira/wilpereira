@@ -30,3 +30,7 @@ Esse sou eu, um Desenvolvedor Front-End, que transforma layouts, protótipos em 
 <a href="https://www.postman.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676726456/ease-prof/others/postman_ks3gcy.svg" height="40" width="40" alt=Postman/>
 <a href="https://www.figma.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730196/ease-prof/programming%20languages/icons8-figma_ikwot6.svg" height="40" width="40" alt=Figma/>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730145/ease-prof/programming%20languages/adobe-xd-2_qpos0m.svg" height="40" width="40" alt=XD/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=wilpereira&theme=oldie"/>
