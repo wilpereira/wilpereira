@@ -2,7 +2,7 @@
 
 Aqui é William, William Pereira, mais conhecido como Will, um cara apaixonado por tecnologia, pelo que faz, fico com brilho nos olhos com cada linha de marcação e vejo o resutado na tela.
 
-Esse sou eu, um Desenvolvedor Front-End, que transforma layouts, protótipos em tela, seja para aplicativos web, mobile e softwares, e com o passar dos anos, Front-End veio ganhando mais espaço e importancia no mundo da tecnologia, o que exigiiu de mim aprender mais, focando na Arquitetura de Front-End, Design System, Integrações com API,frameworks como Angular, mais e mais.
+Esse sou eu, um Desenvolvedor Front-End, que transforma layouts, protótipos em tela, seja para aplicativos web, mobile e softwares, e com o passar dos anos, Front-End veio ganhando mais espaço e importancia no mundo da tecnologia, o que exigiu de mim aprender mais, e focar em Arquitetura de Front-End, Design System, Integrações com API, frameworks como Angular, e mais e mais...
 
 ![William Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=wilpereira&show_icons=true&theme=tokyonight)
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wilpereira&theme=dark"/>
